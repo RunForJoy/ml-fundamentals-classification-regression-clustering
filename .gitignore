@@ -59,3 +59,4 @@ __pycache__/
 *.png
 data/
 *old.ipynb
+old/
